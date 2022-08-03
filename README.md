@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Kati Lahtmets, I'm an enhtusiastic software developer student from Tallinn, Estonia.
+My name is Kati Lahtmets, I'm an enthusiastic software developer student from Tallinn, Estonia.
 
 - 🌱 I’m currently learning SQL, Python, JavaScript, HTML and CSS. 
 - 🔭 I’m currently working on learning how to program.
